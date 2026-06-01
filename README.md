@@ -1,4 +1,4 @@
-# 🤖 Slobos & Mr. Juice Aternos Hosting
+# 🤖 Slobos & Mr. Juice Aternos Hosting Guide
 
 A Minecraft fella that helps keep an Aternos server online by automatically joining it using a Mineflayer-based entity. Perfect for SMPs or small multiplayer servers that shut down when no players are online.
 
